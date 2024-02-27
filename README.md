@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hesham Ghonim</h1>
-<h3 align="center">A hard-working Computer Science and Engineer passionate about Machine learning & AI</h3>
+<h3 align="center">I am a meticulous, detail-oriented person who maintains composure under demanding circumstances. My primary areas of interest lie in machine learning and data engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hghonim27&label=Profile%20views&color=0e75b6&style=flat" alt="hghonim27" /> </p>
 
